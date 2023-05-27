@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Zeegaths
-- 👀 I’m interested in blockhain delevelopment.
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on NFTs and climate action.
+
 - 📫 How to reach me zarahgathoni76@gmail.com
 
 <!---
