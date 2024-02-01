@@ -1,5 +1,5 @@
 
-- Hi im Mary wangui
+- Hi, I'm Mary wangui
 - Im a Blockchain Developer
 - 📫 How to reach me zaragathoni76@gmail.com
 
