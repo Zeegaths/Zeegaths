@@ -1,4 +1,7 @@
-
+I'm a blockchain developer
+Building cool stuff
+Reach me @gathoni_zarah on X 
+or email @ zarahgathoni76@gmail.com
 
 <!---
 Zeegaths/Zeegaths is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
