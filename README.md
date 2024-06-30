@@ -1,5 +1,9 @@
 I'm a blockchain developer
-Building cool stuff
+
+Building on the blockchain 
+
+Cuz blockchain
+
 Reach me @gathoni_zarah on X 
 or email @ zarahgathoni76@gmail.com
 
