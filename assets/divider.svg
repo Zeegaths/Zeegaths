@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" width="1000" height="6" role="presentation">
+  <defs>
+    <linearGradient id="pulse" x1="0" x2="1">
+      <stop offset="0" stop-color="#C6F432" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C6F432"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="rail"><rect x="0" y="2" width="1000" height="2" rx="1"/></clipPath>
+  </defs>
+  <rect x="0" y="2" width="1000" height="2" rx="1" fill="#2A2A32"/>
+  <g clip-path="url(#rail)">
+    <rect y="2" width="320" height="2" fill="url(#pulse)">
+      <animate attributeName="x" values="-320;1000" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

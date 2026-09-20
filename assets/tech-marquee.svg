@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="Tech stack: Solidity, Rust, C++, Motoko, Cairo, TypeScript, JavaScript, Foundry, Hardhat, Next.js, React, Node.js, PostgreSQL, GraphQL, Tailwind, Anchor">
+  <title>Tech stack</title>
+  <defs>
+    <style>
+      .m { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; font-size: 13px; letter-spacing: 0.6px; fill: #B8B8C4; }
+    </style>
+    <clipPath id="view"><rect x="0" y="0" width="1000" height="34" rx="17.0"/></clipPath>
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop offset="0" stop-color="#0A0A0B"/><stop offset="0.06" stop-color="#0A0A0B" stop-opacity="0"/>
+      <stop offset="0.94" stop-color="#0A0A0B" stop-opacity="0"/><stop offset="1" stop-color="#0A0A0B"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#view)">
+    <rect width="1000" height="34" fill="#0A0A0B"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-2046.1 0" dur="36s" repeatCount="indefinite"/>
+    <g><rect x="0" y="0" width="123.4" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="16" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="30" y="21.5">Solidity</text></g>
+    <g><rect x="137.4" y="0" width="89.7" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="153.4" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="167.4" y="21.5">Rust</text></g>
+    <g><rect x="241.1" y="0" width="81.3" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="257.1" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="271.1" y="21.5">C++</text></g>
+    <g><rect x="336.4" y="0" width="106.5" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="352.4" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="366.4" y="21.5">Motoko</text></g>
+    <g><rect x="456.9" y="0" width="98.1" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="472.9" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="486.9" y="21.5">Cairo</text></g>
+    <g><rect x="569.0" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="585.0" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="599.0" y="21.5">TypeScript</text></g>
+    <g><rect x="723.2" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="739.2" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="753.2" y="21.5">JavaScript</text></g>
+    <g><rect x="877.4" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="893.4" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="907.4" y="21.5">Foundry</text></g>
+    <g><rect x="1006.3" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1022.3" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="1036.3" y="21.5">Hardhat</text></g>
+    <g><rect x="1135.2" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1151.2" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="1165.2" y="21.5">Next.js</text></g>
+    <g><rect x="1264.1" y="0" width="98.1" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1280.1" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="1294.1" y="21.5">React</text></g>
+    <g><rect x="1376.2" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1392.2" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="1406.2" y="21.5">Node.js</text></g>
+    <g><rect x="1505.1" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1521.1" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="1535.1" y="21.5">PostgreSQL</text></g>
+    <g><rect x="1659.3" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1675.3" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="1689.3" y="21.5">GraphQL</text></g>
+    <g><rect x="1788.2" y="0" width="123.4" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1804.2" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="1818.2" y="21.5">Tailwind</text></g>
+    <g><rect x="1925.6" y="0" width="106.5" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="1941.6" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="1955.6" y="21.5">Anchor</text></g>
+    <g><rect x="2046.1" y="0" width="123.4" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2062.1" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="2076.1" y="21.5">Solidity</text></g>
+    <g><rect x="2183.5" y="0" width="89.7" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2199.5" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="2213.5" y="21.5">Rust</text></g>
+    <g><rect x="2287.2" y="0" width="81.3" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2303.2" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="2317.2" y="21.5">C++</text></g>
+    <g><rect x="2382.5" y="0" width="106.5" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2398.5" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="2412.5" y="21.5">Motoko</text></g>
+    <g><rect x="2503.0" y="0" width="98.1" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2519.0" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="2533.0" y="21.5">Cairo</text></g>
+    <g><rect x="2615.1" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2631.1" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="2645.1" y="21.5">TypeScript</text></g>
+    <g><rect x="2769.3" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2785.3" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="2799.3" y="21.5">JavaScript</text></g>
+    <g><rect x="2923.5" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="2939.5" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="2953.5" y="21.5">Foundry</text></g>
+    <g><rect x="3052.4" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3068.4" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="3082.4" y="21.5">Hardhat</text></g>
+    <g><rect x="3181.3" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3197.3" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="3211.3" y="21.5">Next.js</text></g>
+    <g><rect x="3310.2" y="0" width="98.1" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3326.2" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="3340.2" y="21.5">React</text></g>
+    <g><rect x="3422.3" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3438.3" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="3452.3" y="21.5">Node.js</text></g>
+    <g><rect x="3551.2" y="0" width="140.2" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3567.2" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="3581.2" y="21.5">PostgreSQL</text></g>
+    <g><rect x="3705.4" y="0" width="114.9" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3721.4" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="3735.4" y="21.5">GraphQL</text></g>
+    <g><rect x="3834.3" y="0" width="123.4" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3850.3" cy="17.0" r="4" fill="#6D28D9"/><text class="m" x="3864.3" y="21.5">Tailwind</text></g>
+    <g><rect x="3971.7" y="0" width="106.5" height="34" rx="17.0" fill="#121214" stroke="#2A2A32"/><circle cx="3987.7" cy="17.0" r="4" fill="#C6F432"/><text class="m" x="4001.7" y="21.5">Anchor</text></g>
+    </g>
+    <rect width="1000" height="34" fill="url(#edge)"/>
+  </g>
+</svg>
