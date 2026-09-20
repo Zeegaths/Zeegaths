@@ -1,0 +1,26 @@
+name: Pull latest Medium posts
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull Medium feed into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@zarahgathoni76"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "mmm yyyy"
+          commit_message: "chore: refresh latest writing"

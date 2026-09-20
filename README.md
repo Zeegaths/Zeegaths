@@ -55,6 +55,16 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
+## `//` Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- Pulled automatically from [medium.com/@zarahgathoni76](https://medium.com/@zarahgathoni76) once the workflow runs.
+<!-- BLOG-POST-LIST:END -->
+
+<sub>↑ refreshed daily by GitHub Actions</sub>
+
+<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+
 ## `//` The numbers
 
 <div align="center">
