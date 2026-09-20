@@ -23,8 +23,13 @@ jobs:
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
           item_exec: |
-            if (post.title.length > 52) {
-              post.title = post.title.slice(0, 52).replace(/[\s,;:.-]+$/, '') + '...';
+            const max = 60;
+            if (post.title.length > max) {
+              let t = post.title.slice(0, max);
+              const cut = t.lastIndexOf(' ');
+              if (cut > 30) { t = t.slice(0, cut); }
+              t = t.replace(/[\s,;:.\-]+$/, '').replace(/\s+(and|or|the|a|an|of|in|to|is|with|for)$/i, '');
+              post.title = t + '...';
             }
           date_format: "mmm yyyy"
           commit_message: "chore: refresh latest writing"
