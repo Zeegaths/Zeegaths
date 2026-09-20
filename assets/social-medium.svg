@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.5 34" width="106.5" height="34" role="img" aria-label="MEDIUM">
+  <title>MEDIUM</title>
+  <rect x="0.75" y="0.75" width="105.0" height="32.5" rx="16.25" fill="#121214" stroke="#2A2A32" stroke-width="1.5"/>
+  <circle cx="16" cy="17.0" r="4" fill="#C6F432"/>
+  <text x="30" y="21.5" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.6" fill="#B8B8C4">MEDIUM</text>
+</svg>

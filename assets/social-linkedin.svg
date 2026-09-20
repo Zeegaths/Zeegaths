@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.4 34" width="123.4" height="34" role="img" aria-label="LINKEDIN">
+  <title>LINKEDIN</title>
+  <rect x="0.75" y="0.75" width="121.9" height="32.5" rx="16.25" fill="#121214" stroke="#2A2A32" stroke-width="1.5"/>
+  <circle cx="16" cy="17.0" r="4" fill="#6D28D9"/>
+  <text x="30" y="21.5" font-family="ui-monospace, &apos;SF Mono&apos;, &apos;JetBrains Mono&apos;, Menlo, Consolas, monospace" font-size="13" letter-spacing="0.6" fill="#B8B8C4">LINKEDIN</text>
+</svg>

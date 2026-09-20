@@ -4,11 +4,10 @@
 
 <br/>
 
-<a href="https://github.com/Zeegaths"><img src="https://komarev.com/ghpvc/?username=Zeegaths&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://x.com/gathoni_zarah"><img src="https://img.shields.io/badge/X-@gathoni__zarah-0A0A0B?style=for-the-badge&logo=x&logoColor=C6F432" alt="X" /></a>
-<a href="https://www.linkedin.com/in/mary-wangui--/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=C6F432" alt="LinkedIn" /></a>
-<a href="https://medium.com/@zarahgathoni76"><img src="https://img.shields.io/badge/Medium-Writing-0A0A0B?style=for-the-badge&logo=medium&logoColor=C6F432" alt="Medium" /></a>
-<a href="mailto:zarahgathoni76@gmail.com"><img src="https://img.shields.io/badge/Email-Say+hi-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://x.com/gathoni_zarah"><img src="./assets/social-x.svg" height="34" alt="X, @gathoni_zarah" /></a>
+<a href="https://www.linkedin.com/in/mary-wangui--/"><img src="./assets/social-linkedin.svg" height="34" alt="LinkedIn" /></a>
+<a href="https://medium.com/@zarahgathoni76"><img src="./assets/social-medium.svg" height="34" alt="Medium" /></a>
+<a href="mailto:zarahgathoni76@gmail.com"><img src="./assets/social-email.svg" height="34" alt="Email" /></a>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
