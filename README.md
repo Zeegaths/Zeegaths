@@ -56,10 +56,10 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [An Overview of Bitcoin Scripts, Addresses, and Encod...](https://medium.com/@zarahgathoni76/an-overview-of-bitcoin-scripts-addresses-and-encodings-f97eea8db202?source=rss-13fd05408f56------2) <sub>Sep 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [An Overview of Bitcoin Scripts, Addresses, and Encodings](https://medium.com/@zarahgathoni76/an-overview-of-bitcoin-scripts-addresses-and-encodings-f97eea8db202?source=rss-13fd05408f56------2) <sub>Sep 2026</sub>
 - [The WHY Behind Bitcoin’s Design](https://medium.com/@zarahgathoni76/the-why-behind-bitcoins-design-6b56eef7128d?source=rss-13fd05408f56------2) <sub>Aug 2026</sub>
 - [Web3 market Entry: A comparison Accross Markets](https://medium.com/@zarahgathoni76/web3-market-entry-a-comparison-9fc1ec64ffba?source=rss-13fd05408f56------2) <sub>May 2026</sub>
-- [BuilderUptime: Because Therapy is Expensive and AI...](https://medium.com/@zarahgathoni76/builderuptime-because-therapy-is-expensive-and-ai-well-i-dont-trust-it-9b5d9e764bc7?source=rss-13fd05408f56------2) <sub>Dec 2025</sub>
+- [BuilderUptime: Because Therapy is Expensive and AI.., well...](https://medium.com/@zarahgathoni76/builderuptime-because-therapy-is-expensive-and-ai-well-i-dont-trust-it-9b5d9e764bc7?source=rss-13fd05408f56------2) <sub>Dec 2025</sub>
 - [A Practical Guide to Getting Started in Web3](https://medium.com/@zarahgathoni76/a-practical-guide-to-getting-started-in-web3-92a66286255c?source=rss-13fd05408f56------2) <sub>Dec 2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
