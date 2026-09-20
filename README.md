@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Zarah Gathoni, Nairobi-based blockchain engineer" width="100%" />
+<img src="./assets/header.svg" alt="Mary Gathoni, Nairobi-based blockchain engineer" width="100%" />
 
 <br/>
 

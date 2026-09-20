@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Zarah Gathoni, Nairobi-based blockchain engineer">
-  <title>Zarah Gathoni, blockchain engineer</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Mary Gathoni, Nairobi-based blockchain engineer">
+  <title>Mary Gathoni, blockchain engineer</title>
 
   <defs>
     <clipPath id="panel"><rect x="0" y="0" width="1000" height="280" rx="18"/></clipPath>
@@ -56,7 +56,7 @@
       </circle>
       <circle cx="852" cy="140" r="58" fill="none" stroke="#33333D" stroke-width="1.5"/>
       <circle cx="852" cy="140" r="26" fill="#0E0E12" stroke="#33333D" stroke-width="1.5"/>
-      <text class="mono" x="852" y="148" text-anchor="middle" font-size="20" font-weight="700" fill="#C6F432">Z</text>
+      <text class="mono" x="852" y="148" text-anchor="middle" font-size="20" font-weight="700" fill="#C6F432">M</text>
       <g>
         <animateTransform attributeName="transform" type="rotate" from="0 852 140" to="360 852 140" dur="11s" repeatCount="indefinite"/>
         <circle cx="910" cy="140" r="5" fill="#C6F432"/>
@@ -74,10 +74,10 @@
     <!-- identity -->
     <text class="mono eyebrow" x="48" y="62">NAIROBI <tspan fill="#6D28D9">·</tspan> BLOCKCHAIN ENGINEER <tspan fill="#6D28D9">·</tspan> WEB3 GTM</text>
 
-    <rect x="213" y="103" height="11" width="194" fill="#C6F432" opacity="0.85">
+    <rect x="186" y="103" height="11" width="194" fill="#C6F432" opacity="0.85">
       <animate attributeName="width" values="0;194" dur="0.7s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1"/>
     </rect>
-    <text class="mono name" x="48" y="112">ZARAH GATHONI</text>
+    <text class="mono name" x="48" y="112">MARY GATHONI</text>
 
     <!-- typing roles -->
     <text class="mono prompt" x="48" y="182">&gt;</text>
