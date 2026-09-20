@@ -19,6 +19,9 @@ OUT = os.environ.get("STATS_OUT", "assets/stats.svg")
 RAMP = ["#6D28D9", "#7C3AED", "#8B5CF6", "#A78BFA", "#93B80C", "#C6F432"]
 OTHER = "#3A3A46"
 
+# Build plumbing that GitHub counts as a language but nobody claims as a skill.
+SKIP_LANGS = {"Makefile", "Dockerfile", "CMake", "Batchfile", "Procfile", "Roff", "Nix"}
+
 
 def api(path):
     req = urllib.request.Request(
@@ -53,6 +56,8 @@ def collect():
     for r in by_size:
         try:
             for name, count in api(f"/repos/{USER}/{r['name']}/languages").items():
+                if name in SKIP_LANGS:
+                    continue
                 langs[name] = langs.get(name, 0) + count
         except urllib.error.HTTPError:
             continue
@@ -80,7 +85,6 @@ def render(d):
     stamp = datetime.now(timezone.utc).strftime("%b %Y").upper()
     tiles = [
         (d["repos"], "PUBLIC REPOS"),
-        (d["stars"], "STARS EARNED"),
         (d["followers"], "FOLLOWERS"),
         (len(d["langs"]), "LANGUAGES USED"),
     ]
@@ -107,7 +111,7 @@ def render(d):
     ]
 
     for i, (value, label) in enumerate(tiles):
-        x = 48 + i * 232
+        x = 48 + i * 310
         out.append(f'    <text class="mono num" x="{x}" y="98">{value}</text>')
         out.append(f'    <text class="mono lbl" x="{x}" y="120">{label}</text>')
 
