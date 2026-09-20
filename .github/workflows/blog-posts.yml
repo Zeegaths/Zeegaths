@@ -22,5 +22,9 @@ jobs:
           feed_list: "https://medium.com/feed/@zarahgathoni76"
           max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
+          item_exec: |
+            if (post.title.length > 52) {
+              post.title = post.title.slice(0, 52).replace(/[\s,;:.-]+$/, '') + '...';
+            }
           date_format: "mmm yyyy"
           commit_message: "chore: refresh latest writing"

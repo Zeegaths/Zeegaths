@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Zarah Gathoni — Nairobi-based blockchain engineer" width="100%" />
+<img src="./assets/header.svg" alt="Zarah Gathoni, Nairobi-based blockchain engineer" width="100%" />
 
 <br/>
 
@@ -14,28 +14,28 @@
 
 </div>
 
-## `//` About
+## About
 
 I build on-chain products and help them land in African markets. Solidity, Rust and Motoko
 on the contract side; React, Next.js and TypeScript on the front. Most weeks involve some of both
-engineering and go-to-market — crop insurance that pays out to M-Pesa, payroll that streams by the
+engineering and go-to-market: crop insurance that pays out to M-Pesa, payroll that streams by the
 second, a prediction market built for this continent.
 
 Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` Currently
+## Currently
 
 | | Role | What it is |
 |:--|:--|:--|
-| 🟣 | **Founder** — [KoruFlux](https://koruflux.com/) | Web3 and fintech market entry into Africa, including Kenya's VASP framework |
-| 🟢 | **BD & Partnerships** — [MicroCrop](https://www.microcrop.app/) | Growing blockchain crop insurance across Kenya and beyond |
-| 🟣 | **Marketing Lead** — [jua.exchange](https://www.jua.exchange/) | An African prediction market |
+| 🟣 | **Founder** at [KoruFlux](https://koruflux.com/) | Web3 and fintech market entry into Africa, including Kenya's VASP framework |
+| 🟢 | **BD & Partnerships** at [MicroCrop](https://www.microcrop.app/) | Growing blockchain crop insurance across Kenya and beyond |
+| 🟣 | **Marketing Lead** at [jua.exchange](https://www.jua.exchange/) | An African prediction market |
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` Selected work
+## Selected work
 
 | Project | What it does | Built with | Year |
 |:--|:--|:--|:--|
@@ -47,7 +47,7 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` Stack
+## Stack
 
 <div align="center">
 <img src="./assets/tech-marquee.svg" alt="Solidity, Rust, C++, Motoko, Cairo, TypeScript, JavaScript, Foundry, Hardhat, Next.js, React, Node.js, PostgreSQL, GraphQL, Tailwind, Anchor" width="100%" />
@@ -55,7 +55,7 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` Latest writing
+## Latest writing
 
 <!-- BLOG-POST-LIST:START -->- [An Overview of Bitcoin Scripts, Addresses, and Encodings](https://medium.com/@zarahgathoni76/an-overview-of-bitcoin-scripts-addresses-and-encodings-f97eea8db202?source=rss-13fd05408f56------2) <sub>Sep 2026</sub>
 - [The WHY Behind Bitcoin’s Design](https://medium.com/@zarahgathoni76/the-why-behind-bitcoins-design-6b56eef7128d?source=rss-13fd05408f56------2) <sub>Aug 2026</sub>
@@ -68,7 +68,7 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` The numbers
+## The numbers
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
-## `//` Contribution snake
+## Contribution snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Zeegaths/Zeegaths/output/snake.svg" alt="Snake eating my contribution graph" width="100%" />
@@ -105,6 +105,6 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 
 **[zarahgathoni76@gmail.com](mailto:zarahgathoni76@gmail.com)** &nbsp;·&nbsp; **[koruflux.com](https://koruflux.com/)**
 
-<sub>Most of what I ship is under contract and lives in private repos — the work above is the public trail.</sub>
+<sub>Most of what I ship is under contract and lives in private repos. The work above is the public trail.</sub>
 
 </div>
