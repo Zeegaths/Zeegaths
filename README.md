@@ -71,23 +71,10 @@ Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
 ## The numbers
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeegaths&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0B&title_color=C6F432&text_color=B8B8C4&icon_color=6D28D9&ring_color=C6F432" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeegaths&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0B&title_color=C6F432&text_color=B8B8C4" alt="Top languages" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Zeegaths&hide_border=true&background=0A0A0B&stroke=2A2A32&ring=C6F432&fire=C6F432&currStreakLabel=C6F432&sideLabels=B8B8C4&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=5A5A66" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeegaths&bg_color=0A0A0B&color=C6F432&line=6D28D9&point=FAFAFA&area=true&area_color=6D28D9&hide_border=true&custom_title=Commits%20over%20time" alt="Contribution activity graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zeegaths&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
+<img src="./assets/stats.svg" alt="GitHub statistics: public repositories, stars earned, followers, and the language split across my repos" width="100%" />
 </div>
+
+<sub>Generated daily from the GitHub API by Actions and committed to this repo, so it loads from here rather than a third-party service.</sub>
 
 <div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
 
