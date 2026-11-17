@@ -1,17 +1,13 @@
 <div align="center">
-
 <img src="./assets/header.svg" alt="Mary Gathoni, Nairobi-based blockchain engineer" width="100%" />
-
-<br/>
-
-<a href="https://x.com/gathoni_zarah"><img src="./assets/social-x.svg" height="34" alt="X, @gathoni_zarah" /></a>
-<a href="https://www.linkedin.com/in/mary-wangui--/"><img src="./assets/social-linkedin.svg" height="34" alt="LinkedIn" /></a>
-<a href="https://medium.com/@zarahgathoni76"><img src="./assets/social-medium.svg" height="34" alt="Medium" /></a>
-<a href="mailto:zarahgathoni76@gmail.com"><img src="./assets/social-email.svg" height="34" alt="Email" /></a>
-
-<img src="./assets/divider.svg" alt="" width="100%" />
-
 </div>
+
+<p align="center">
+<a href="https://x.com/gathoni_zarah">X</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/mary-wangui--/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://medium.com/@zarahgathoni76">Medium</a> &nbsp;·&nbsp;
+<a href="mailto:zarahgathoni76@gmail.com">Email</a>
+</p>
 
 ## About
 
@@ -20,77 +16,36 @@ on the contract side; React, Next.js and TypeScript on the front. Most weeks inv
 engineering and go-to-market: crop insurance that pays out to M-Pesa, payroll that streams by the
 second, a prediction market built for this continent.
 
-Based in **Nairobi 🇰🇪**. Open to freelance and contract work.
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+Based in Nairobi, Kenya. Open to freelance and contract work.
 
 ## Currently
 
-| | Role | What it is |
-|:--|:--|:--|
-| 🟣 | **Founder** at [KoruFlux](https://koruflux.com/) | Web3 and fintech market entry into Africa, including Kenya's VASP framework |
-| 🟢 | **BD & Partnerships** at [MicroCrop](https://www.microcrop.app/) | Growing blockchain crop insurance across Kenya and beyond |
-| 🟣 | **Marketing Lead** at [jua.exchange](https://www.jua.exchange/) | An African prediction market |
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+- **Founder at [KoruFlux](https://koruflux.com/):** Web3 and fintech market entry into Africa, including Kenya's VASP framework
+- **BD & Partnerships at [MicroCrop](https://www.microcrop.app/):** growing blockchain crop insurance across Kenya and beyond
 
 ## Selected work
 
-| Project | What it does | Built with | Year |
-|:--|:--|:--|:--|
-| **[MicroCrop](https://www.microcrop.app/)** | Parametric crop insurance for smallholder farmers. WeatherXM data triggers payouts automatically, settled straight to M-Pesa. | `React` `Solidity` `Node.js` | 2025 |
-| **[Strimz](https://www.strimz.xyz/)** | Token streaming for salaries, subscriptions and utilities. Upload a CSV, set an interval, payments run on schedule. | `Next.js` `Solidity` `TypeScript` | 2024 |
-| **[builderUptime](https://projectone.app/)** | Farcaster-native time tracking. Smart accounts mean logging a session takes one tap. | `Next.js` `Smart Accounts` `GraphQL` | 2024 |
-| **[AntiKorrupt](https://px7id-byaaa-aaaak-albiq-cai.icp0.io/)** | An AI tutor trained on UN anti-corruption material, wrapped in a game. | `Svelte` `Motoko` | 2024 |
-| **[P2P Farmers](https://pm4fe-4iaaa-aaaak-ao7bq-cai.icp0.io/)** 🏆 | Farm-to-consumer marketplace. 3rd place, ICP Mega Hackathon. | `React` `Motoko` | 2023 |
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+| Project | What it does | Built with |
+|:--|:--|:--|
+| **[MicroCrop](https://www.microcrop.app/)** | Parametric crop insurance for smallholder farmers. WeatherXM data triggers payouts automatically, settled straight to M-Pesa. | React, Solidity, Node.js |
+| **[Strimz](https://www.strimz.xyz/)** | Token streaming for salaries, subscriptions and utilities. Upload a CSV, set an interval, payments run on schedule. | Next.js, Solidity, TypeScript |
+| **[builderUptime](https://projectone.app/)** | Farcaster-native time tracking. Smart accounts mean logging a session takes one tap. | Next.js, Smart Accounts, GraphQL |
+| **[AntiKorrupt](https://px7id-byaaa-aaaak-albiq-cai.icp0.io/)** | An AI tutor trained on UN anti-corruption material, wrapped in a game. | Svelte, Motoko |
+| **[P2P Farmers](https://pm4fe-4iaaa-aaaak-ao7bq-cai.icp0.io/)** | Farm-to-consumer marketplace. 3rd place, ICP Mega Hackathon. | React, Motoko |
 
 ## Stack
 
-<div align="center">
-<img src="./assets/tech-marquee.svg" alt="Solidity, Rust, C++, Motoko, Cairo, TypeScript, JavaScript, Foundry, Hardhat, Next.js, React, Node.js, PostgreSQL, GraphQL, Tailwind, Anchor" width="100%" />
-</div>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
+Solidity, Rust, C++, Motoko, Cairo, TypeScript, JavaScript, Foundry, Hardhat, Next.js, React, Node.js, PostgreSQL, GraphQL, Tailwind, Anchor
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [First time? Wallet Interaction from Bitcoin Core](https://medium.com/@zarahgathoni76/first-time-wallet-interaction-from-bitcoin-core-73c09e7bb8f8?source=rss-13fd05408f56------2) <sub>Oct 2026</sub>
-- [Lightning Transaction Through the Codebase](https://medium.com/@zarahgathoni76/lightning-transaction-through-the-codebase-702b55b56703?source=rss-13fd05408f56------2) <sub>Oct 2026</sub>
-- [An Overview of Bitcoin Scripts, Addresses, and Encodings](https://medium.com/@zarahgathoni76/an-overview-of-bitcoin-scripts-addresses-and-encodings-f97eea8db202?source=rss-13fd05408f56------2) <sub>Sep 2026</sub>
-- [The WHY Behind Bitcoin’s Design](https://medium.com/@zarahgathoni76/the-why-behind-bitcoins-design-6b56eef7128d?source=rss-13fd05408f56------2) <sub>Aug 2026</sub>
-- [Web3 market Entry: A comparison Accross Markets](https://medium.com/@zarahgathoni76/web3-market-entry-a-comparison-9fc1ec64ffba?source=rss-13fd05408f56------2) <sub>May 2026</sub>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<sub>↑ refreshed daily by GitHub Actions</sub>
+## Work with me
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-## The numbers
-
-<div align="center">
-<img src="./assets/stats.svg" alt="GitHub statistics: public repositories, stars earned, followers, and the language split across my repos" width="100%" />
-</div>
-
-<sub>Generated daily from the GitHub API by Actions and committed to this repo, so it loads from here rather than a third-party service.</sub>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-## Contribution snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Zeegaths/Zeegaths/output/snake.svg" alt="Snake eating my contribution graph" width="100%" />
-</div>
-
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%" /></div>
-
-<div align="center">
-
-### Building something that needs to work in African markets?
+Building something that needs to work in African markets?
 
 **[zarahgathoni76@gmail.com](mailto:zarahgathoni76@gmail.com)** &nbsp;·&nbsp; **[koruflux.com](https://koruflux.com/)**
 
 <sub>Most of what I ship is under contract and lives in private repos. The work above is the public trail.</sub>
-
-</div>
