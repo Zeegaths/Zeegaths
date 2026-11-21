@@ -39,11 +39,11 @@ Solidity, Rust, C++, Motoko, Cairo, TypeScript, JavaScript, Foundry, Hardhat, Ne
 
 ## Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [First time? Wallet Interaction from Bitcoin Core](https://medium.com/@zarahgathoni76/first-time-wallet-interaction-from-bitcoin-core-73c09e7bb8f8?source=rss-13fd05408f56------2) <sub>Oct 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [My first kill: Bitcoin Mutants](https://medium.com/@zarahgathoni76/my-first-kill-bitcoin-mutants-9e4e5a08a1a6?source=rss-13fd05408f56------2) <sub>Nov 2026</sub>
+- [First time? Wallet Interaction from Bitcoin Core](https://medium.com/@zarahgathoni76/first-time-wallet-interaction-from-bitcoin-core-73c09e7bb8f8?source=rss-13fd05408f56------2) <sub>Oct 2026</sub>
 - [Lightning Transaction Through the Codebase](https://medium.com/@zarahgathoni76/lightning-transaction-through-the-codebase-702b55b56703?source=rss-13fd05408f56------2) <sub>Oct 2026</sub>
 - [An Overview of Bitcoin Scripts, Addresses, and Encodings](https://medium.com/@zarahgathoni76/an-overview-of-bitcoin-scripts-addresses-and-encodings-f97eea8db202?source=rss-13fd05408f56------2) <sub>Sep 2026</sub>
 - [The WHY Behind Bitcoin’s Design](https://medium.com/@zarahgathoni76/the-why-behind-bitcoins-design-6b56eef7128d?source=rss-13fd05408f56------2) <sub>Aug 2026</sub>
-- [Web3 market Entry: A comparison Accross Markets](https://medium.com/@zarahgathoni76/web3-market-entry-a-comparison-9fc1ec64ffba?source=rss-13fd05408f56------2) <sub>May 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ## Work with me
